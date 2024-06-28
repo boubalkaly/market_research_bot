@@ -1,0 +1,1 @@
+The role of the bot is to scrape data about MENA Banks and their different partners in the MENA Ecosystem. It is using a combination of basic web scraping with Beautifoul Soup combined with a dynamic data filterering and information search using LLMs through LangChain and OpenAI API.
